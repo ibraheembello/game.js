@@ -1,0 +1,20 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "A CLI number guessing game",
+  "main": "game.js",
+  "scripts": {
+    "start": "node game.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "verbose": true
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
